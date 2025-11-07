@@ -1,0 +1,8 @@
+../Core/Src/term_io.c:10:5:xatoi	17
+../Core/Src/term_io.c:63:6:xputc	1
+../Core/Src/term_io.c:68:6:xputs	2
+../Core/Src/term_io.c:74:6:xitoa	10
+../Core/Src/term_io.c:109:6:xprintf	19
+../Core/Src/term_io.c:164:6:put_dump	5
+../Core/Src/term_io.c:182:6:get_line	6
+../Core/Src/term_io.c:206:5:get_line_r	7

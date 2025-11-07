@@ -1,0 +1,8 @@
+J:/STM32CubeIDE/workspace_1.18.1/H743HiFi_MA12070P/Core/Lib/libflac/include/share/alloc.h:70:21:safe_malloc_	2
+../Core/Lib/libflac/src/libFLAC/memory.c:45:7:FLAC__memory_alloc_aligned	1
+../Core/Lib/libflac/src/libFLAC/memory.c:62:12:FLAC__memory_alloc_aligned_int32_array	4
+../Core/Lib/libflac/src/libFLAC/memory.c:91:12:FLAC__memory_alloc_aligned_uint32_array	4
+../Core/Lib/libflac/src/libFLAC/memory.c:120:12:FLAC__memory_alloc_aligned_uint64_array	4
+../Core/Lib/libflac/src/libFLAC/memory.c:149:12:FLAC__memory_alloc_aligned_unsigned_array	4
+../Core/Lib/libflac/src/libFLAC/memory.c:180:12:FLAC__memory_alloc_aligned_real_array	4
+../Core/Lib/libflac/src/libFLAC/memory.c:211:7:safe_malloc_mul_2op_p	4

@@ -1,0 +1,14 @@
+../Core/Lib/Player/Src/player.c:70:6:BSP_AUDIO_OUT_HalfTransfer_CallBack	1
+../Core/Lib/Player/Src/player.c:77:6:BSP_AUDIO_OUT_TransferComplete_CallBack	1
+../Core/Lib/Player/Src/player.c:84:6:initialize_codec	8
+../Core/Lib/Player/Src/player.c:126:9:pcm16_to_pcm32_basic	1
+../Core/Lib/Player/Src/player.c:131:6:read_file	4
+../Core/Lib/Player/Src/player.c:152:6:flac_dec	5
+../Core/Lib/Player/Src/player.c:201:6:start_player	24
+../Core/Lib/Player/Src/player.c:406:6:pause_player	1
+../Core/Lib/Player/Src/player.c:414:6:resume_player	1
+../Core/Lib/Player/Src/player.c:422:6:stop_player	4
+../Core/Lib/Player/Src/player.c:453:20:get_buffer_state	1
+../Core/Lib/Player/Src/player.c:460:6:update_player	20
+../Core/Lib/Player/Src/player.c:608:8:get_playing_progress	3
+../Core/Lib/Player/Src/player.c:619:13:get_player_state	1

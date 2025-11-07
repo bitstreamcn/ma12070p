@@ -1,0 +1,3 @@
+../Core/Lib/Player/Src/flac_reader.c:5:13:create_flac_reader	1
+../Core/Lib/Player/Src/flac_reader.c:14:6:free_flac_reader	1
+../Core/Lib/Player/Src/flac_reader.c:19:10:read_flac	5

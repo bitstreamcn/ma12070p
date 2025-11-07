@@ -1,0 +1,11 @@
+../Core/Src/dbgu.c:33:6:debug_shdn	1
+../Core/Src/dbgu.c:39:6:debug_init	1
+../Core/Src/dbgu.c:44:6:debug_chr	2
+../Core/Src/dbgu.c:55:5:__io_putchar	1
+../Core/Src/dbgu.c:63:6:debug_inkey	3
+../Core/Src/dbgu.c:75:6:debug_waitkey	2
+../Core/Src/dbgu.c:91:6:debug_msg	1
+../Core/Src/dbgu.c:98:6:debug_txt	2
+../Core/Src/dbgu.c:104:6:debug_txt_limit	2
+../Core/Src/dbgu.c:114:6:debug_ascii	6
+../Core/Src/dbgu.c:136:6:debug_dump	14

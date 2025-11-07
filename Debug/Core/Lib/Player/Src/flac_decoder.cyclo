@@ -1,0 +1,10 @@
+../Core/Lib/Player/Src/flac_decoder.c:5:38:decoder_read_callback	5
+../Core/Lib/Player/Src/flac_decoder.c:35:39:decoder_write_callback	5
+../Core/Lib/Player/Src/flac_decoder.c:83:13:decoder_metadata_callback	2
+../Core/Lib/Player/Src/flac_decoder.c:107:13:decoder_error_callback	1
+../Core/Lib/Player/Src/flac_decoder.c:114:7:create_flac	3
+../Core/Lib/Player/Src/flac_decoder.c:150:6:destroy_flac	3
+../Core/Lib/Player/Src/flac_decoder.c:159:5:read_metadata	2
+../Core/Lib/Player/Src/flac_decoder.c:170:5:read_frame	3
+../Core/Lib/Player/Src/flac_decoder.c:192:6:free_frame	2
+../Core/Lib/Player/Src/flac_decoder.c:199:6:free_metadata	2

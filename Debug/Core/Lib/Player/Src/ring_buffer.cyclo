@@ -1,0 +1,10 @@
+../Core/Lib/Player/Src/ring_buffer.c:10:6:RingBuffer_Init	1
+../Core/Lib/Player/Src/ring_buffer.c:17:5:Lock	2
+../Core/Lib/Player/Src/ring_buffer.c:25:6:Unlock	1
+../Core/Lib/Player/Src/ring_buffer.c:30:5:RingBuffer_Write	4
+../Core/Lib/Player/Src/ring_buffer.c:55:5:RingBuffer_Read	4
+../Core/Lib/Player/Src/ring_buffer.c:79:5:RingBuffer_IsEmpty	1
+../Core/Lib/Player/Src/ring_buffer.c:83:5:RingBuffer_IsFull	1
+../Core/Lib/Player/Src/ring_buffer.c:91:10:RingBuffer_GetDataAvailable	1
+../Core/Lib/Player/Src/ring_buffer.c:98:10:RingBuffer_GetSpaceAvailable	1
+../Core/Lib/Player/Src/ring_buffer.c:103:6:TestRingBuffer	1

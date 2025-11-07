@@ -1,0 +1,4 @@
+../Core/Lib/libflac/src/libFLAC/fixed.c:217:10:FLAC__fixed_compute_best_predictor	16
+../Core/Lib/libflac/src/libFLAC/fixed.c:275:10:FLAC__fixed_compute_best_predictor_wide	22
+../Core/Lib/libflac/src/libFLAC/fixed.c:336:6:FLAC__fixed_compute_residual	9
+../Core/Lib/libflac/src/libFLAC/fixed.c:367:6:FLAC__fixed_restore_signal	9

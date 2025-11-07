@@ -1,0 +1,11 @@
+../Drivers/BSP/ma12070p/MerusAudio.c:54:10:i2c_read_id	1
+../Drivers/BSP/ma12070p/MerusAudio.c:69:6:setup_ma120x0	1
+../Drivers/BSP/ma12070p/MerusAudio.c:99:6:i2c_master_init	1
+../Drivers/BSP/ma12070p/MerusAudio.c:123:9:ma_write	1
+../Drivers/BSP/ma12070p/MerusAudio.c:128:9:ma_write_p	2
+../Drivers/BSP/ma12070p/MerusAudio.c:173:9:ma_write_byte	1
+../Drivers/BSP/ma12070p/MerusAudio.c:178:9:ma_write_byte_p	2
+../Drivers/BSP/ma12070p/MerusAudio.c:219:9:ma_read	1
+../Drivers/BSP/ma12070p/MerusAudio.c:224:9:ma_read_p	2
+../Drivers/BSP/ma12070p/MerusAudio.c:286:9:ma_read_byte	1
+../Drivers/BSP/ma12070p/MerusAudio.c:291:9:ma_read_byte_p	2

@@ -1,0 +1,4 @@
+../Core/Lib/libflac/src/libFLAC/crc.c:114:6:FLAC__crc8_update	1
+../Core/Lib/libflac/src/libFLAC/crc.c:119:6:FLAC__crc8_update_block	2
+../Core/Lib/libflac/src/libFLAC/crc.c:125:13:FLAC__crc8	2
+../Core/Lib/libflac/src/libFLAC/crc.c:135:10:FLAC__crc16	2

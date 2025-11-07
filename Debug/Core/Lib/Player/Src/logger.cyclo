@@ -1,0 +1,2 @@
+../Core/Lib/Player/Src/logger.c:7:6:log_message	3
+../Core/Lib/Player/Src/logger.c:16:6:set_debug_mode	1

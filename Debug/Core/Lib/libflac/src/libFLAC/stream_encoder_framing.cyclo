@@ -1,0 +1,8 @@
+../Core/Lib/libflac/src/libFLAC/stream_encoder_framing.c:47:12:FLAC__add_metadata_block	65
+../Core/Lib/libflac/src/libFLAC/stream_encoder_framing.c:220:12:FLAC__frame_add_header	85
+../Core/Lib/libflac/src/libFLAC/stream_encoder_framing.c:367:12:FLAC__subframe_add_constant	6
+../Core/Lib/libflac/src/libFLAC/stream_encoder_framing.c:380:12:FLAC__subframe_add_fixed	9
+../Core/Lib/libflac/src/libFLAC/stream_encoder_framing.c:418:12:FLAC__subframe_add_lpc	13
+../Core/Lib/libflac/src/libFLAC/stream_encoder_framing.c:464:12:FLAC__subframe_add_verbatim	7
+../Core/Lib/libflac/src/libFLAC/stream_encoder_framing.c:482:12:add_entropy_coding_method_	3
+../Core/Lib/libflac/src/libFLAC/stream_encoder_framing.c:498:12:add_residual_partitioned_rice_	20

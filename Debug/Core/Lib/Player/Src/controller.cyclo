@@ -1,0 +1,8 @@
+../Core/Lib/Player/Src/controller.c:21:20:get_current_file_path	1
+../Core/Lib/Player/Src/controller.c:27:13:play_next	3
+../Core/Lib/Player/Src/controller.c:40:13:play_previous	4
+../Core/Lib/Player/Src/controller.c:55:13:start	3
+../Core/Lib/Player/Src/controller.c:64:13:pause	1
+../Core/Lib/Player/Src/controller.c:68:6:update_track_info	1
+../Core/Lib/Player/Src/controller.c:72:6:controller_task	10
+../Core/Lib/Player/Src/controller.c:170:6:check_task	12

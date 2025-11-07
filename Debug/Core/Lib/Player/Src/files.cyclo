@@ -1,0 +1,3 @@
+../Core/Lib/Player/Src/files.c:6:5:find_music_files	10
+../Core/Lib/Player/Src/files.c:70:5:open_file	2
+../Core/Lib/Player/Src/files.c:82:6:wait_for_sd_card	2
