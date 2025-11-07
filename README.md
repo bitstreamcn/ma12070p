@@ -1,5 +1,7 @@
 # H743HiFi_MA12070P
 
-flac/mp3/wav软解，通过ma12070p播放
+flac/mp3/wav杞В鐮侊紝閫氳繃ma12070鎾斁
+
+mcu杞В鐮佽兘鍔涙湁闄愶紝涓嶆帹鑽愪娇鐢紝搴旇浣跨敤瑙ｇ爜鑺墖杩涜瑙ｇ爜
 
 
